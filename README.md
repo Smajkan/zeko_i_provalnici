@@ -7,10 +7,10 @@ Game made with Python
 These instructions will give you a copy of the project up and running on
 your local machine for running. 
 
+### Downloading
+    git clone https://github.com/Smajkan/zeko_i_provalnici.git
 
-### Installing
-
-A step by step series of examples that tell you how to get a game running
+### Required files
 
 In order to get this game running you need to have pygame (which should be installed by default)
 
